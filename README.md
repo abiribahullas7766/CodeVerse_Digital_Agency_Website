@@ -1,19 +1,12 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pixology)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pixology?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pixology?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
 
-  <br />
-  <br />
 
-  <h2 align="center">Pixology - Digital Agency Website</h2>
+  <h2 align="center">CodeVerse - Digital Agency Website</h2>
 
-  Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  CodeVerse is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
@@ -21,7 +14,11 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![code](https://github.com/abiribahullas7766/CodeVerse_Digital_Agency_Website/assets/54986400/1c653eaa-338f-4323-81e3-afd1993a448c)
+
+![code2](https://github.com/abiribahullas7766/CodeVerse_Digital_Agency_Website/assets/54986400/71938b2d-4d00-4b99-afd0-f2d92fcaacbc)
+
+![code3](https://github.com/abiribahullas7766/CodeVerse_Digital_Agency_Website/assets/54986400/6d2820ac-3815-4be6-b7b5-0c5f7d50e860)
 
 ### Prerequisites
 
@@ -31,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Pixology** locally, run this command on your git bash:
+To run **CodeVerse** locally, run this command on your git bash:
 
 Linux and macOS:
 
