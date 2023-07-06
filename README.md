@@ -1,6 +1,4 @@
 <div align="center">
-  
-
 
   <h2 align="center">CodeVerse - Digital Agency Website</h2>
 
@@ -12,7 +10,7 @@
 
 <br />
 
-### Demo Screeshots
+###  Screeshots
 
 ![code](https://github.com/abiribahullas7766/CodeVerse_Digital_Agency_Website/assets/54986400/1c653eaa-338f-4323-81e3-afd1993a448c)
 
@@ -33,18 +31,18 @@ To run **CodeVerse** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pixology.git
+sudo git clone https://github.com/abiribahullas7766/CodeVerse_Digital_Agency_Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pixology.git
+git clone https://github.com/abiribahullas7766/CodeVerse_Digital_Agency_Website.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at Linkdin:(https://www.linkedin.com/in/md-abiribah-ullas-254725221/)
 
 ### License
 
